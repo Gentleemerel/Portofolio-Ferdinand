@@ -1,49 +1,31 @@
-# 🚀 Portofolio Ferdinand Christopher Andryanta
-
-> Portofolio ini dibuat di kelas Industri UBIG SMKN 1 Pasuruan
-
----
-
-## ✨ Fitur Utama
-
-* **Responsive**
-* **Menu Navbar Responsive**
----
-
-## 🛠️ Tech Stack
-
-Daftar teknologi dan *tools* yang digunakan dalam membangun projek ini:
-
-* **HTML**
-* **CSS**
-* **JavaScript**
+# Portofolio Ferdinand Christopher Andryanta
+Website portofolio pribadi yang saya buat di Kelas Industri UBIG
+(Paket 1, Minggu 01 sampai 05).
+Website ini tampil rapi di ponsel, tablet, dan laptop.
 
 ---
 
-## ⚙️ Cara Menjalankan Projek (Installation)
+## Tampilan
+![Tampilan beranda portofolio](img/Tampilan.png)
 
-Ikuti langkah-langkah di bawah ini untuk menjalankan projek ini secara lokal di komputer Anda:
-
-### Prasyarat
-Pastikan Anda sudah menginstal:
-* VS Code
-* Git
-
-### Langkah Instalasi
-
-1. **Clone repository ini**
-   ```bash
-   git clone https://github.com/Gentleemerel/Portofolio-Ferdinand
-
- * Masuk ke direktori projek
-   cd Portofolio-Ferdinand
-
-📸 Tangkapan Layar (Screenshots)
-| Halaman Utama | Halaman Dashboard |
-|---|---|
-|  |  |
-🔗 Tautan Terkait
- * Live Demo: https://portofolio-ferdinand-liard.vercel.app/
-Dibuat oleh Ferdinand Christopher Andryanta.
- * Email: ferdinandnanda22@gmail.com
 ---
+
+## Fitur
+- Halaman **Beranda** berisi profil, hobi, cita-cita, keahlian, dan
+jadwal belajar
+- Halaman **Proyek** berisi daftar proyek dalam bentuk kartu
+- Halaman **Kontak** berisi form untuk menghubungi saya
+- Tampilan responsif dengan Flexbox dan *media query*
+
+---
+
+## Teknologi
+- HTML5
+- CSS3 (Flexbox dan media query)
+- Git dan GitHub
+
+---
+
+## Tautan
+- Website: https://portofolio-ferdinand-liard.vercel.app/
+- Dibuat oleh: Ferdinand Christopher Andryanta, SMKN 1 Pasuruan
