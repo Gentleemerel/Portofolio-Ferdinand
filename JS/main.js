@@ -53,7 +53,7 @@ const proyek = [
   {
     judul: "Halaman Profil Pertama",
     kategori: "HTML",
-    gambar: "img/Main prof.png",
+    gambar: "img/Mainprof.png",
     alt: "Tangkapan layar halaman profil Ferdinand Christopher A.",
     deskripsi: "Halaman web pertama saya, dibuat dengan HTML dasar.",
   },
