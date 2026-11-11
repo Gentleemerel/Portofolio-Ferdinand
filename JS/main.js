@@ -7,8 +7,9 @@ const skills = [
     {nama: "CSS", level: "Menengah"},
     {nama: "Git dan GitHub", level: "Dasar"},
     {nama: "Desain poster dengan Canva", level: "Mahir"},
+    {nama: "JavaScript", level: "Dasar"},
 ];
-skills.push ({nama: "JavaScript", level: "Dasar"});
+
 
 const daftarskill = document.querySelector("#daftar-skill");
 const jumlahskill = document.querySelector("#jumlah-skill");
