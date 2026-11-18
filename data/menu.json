@@ -1,0 +1,73 @@
+[
+  {
+    "nama": "🍚Nasi Goreng",
+    "harga": "Rp12.000",
+    "kategori": "Makanan",
+    "deskripsi": "Nasi yang ditumis dan diberi bumbu sebagai penyedap rasa nya"
+  },
+  {
+    "nama": "🍚Nasi Pecel",
+    "harga": "Rp12.000",
+    "kategori": "Makanan",
+    "deskripsi": "Nasi dengan bumbu kacang berlauk tahu dan tempe dan sayuran"
+  },
+  {"nama": "🍜Mie Goreng/Kuah",
+    "harga": "Rp6.000",
+    "kategori": "Makanan",
+    "deskripsi": "Mie yang dimasak dengan bumbu terbaik"
+  },
+  {
+    "nama": "🍚🍗Nasi Ayam Geprek",
+    "harga": "Rp12.000",
+    "kategori": "Makanan",
+    "deskripsi": "Nasi dengan lauk ayam goreng yang digeprek dengan sambal pedas"
+  },
+  {
+    "nama": "🍜🍗Mie Ayam",
+    "harga": "Rp8.000",
+    "kategori": "Makanan",
+    "deskripsi": "Olahan mie yang dimasak dengan bumbu dan sayur serta diberi potongan ayam dengan rasa gurih,asin,dan sedikit manis"
+  },
+  {
+    "nama": "🍚🥚Nasi Telur Goreng",
+    "harga": "Rp8.000",
+    "kategori": "Makanan",
+    "deskripsi": "Nasi dengan lauk telur goreng"
+  },
+  {
+    "nama": "🥤Es Teh",
+    "harga": "Rp4.000",
+    "kategori": "Minuman",
+    "deskripsi": "Teh yang diolah dengan baik menghasilkan rasa segar dengan tambahan es batu"
+  },
+  {
+    "nama": "🥤Es Jeruk",
+    "harga": "Rp4.000",
+    "kategori": "Minuman",
+    "deskripsi": "Jeruk yang diolah agar menjadi minuman segar dengan sedikit asam yang segar dan diberi es batu"
+  },
+  {
+    "nama": "🍶Es Coklat",
+    "harga": "Rp4.000",
+    "kategori": "Minuman",
+    "deskripsi": "Olahan coklat yang diseduh lalu diberi es batu"
+  },
+  {
+    "nama": "🥤Air Mineral",
+    "harga": "Rp3.000",
+    "kategori": "Minuman",
+    "deskripsi": "Air putih mineral yang menyegarkan"
+  },
+  {
+    "nama": "🥃Es Kopi Susu",
+    "harga": "Rp5.000",
+    "kategori": "Minuman",
+    "deskripsi": "Es kopi susu dengan rasa yang pas diminum"
+  },
+  {
+    "nama": "☕Kopi",
+    "harga": "Rp5.000",
+    "kategori": "Minuman",
+    "deskripsi": "Kopi yang cocok diminum saat sedang beristirahat"
+  }
+]
