@@ -3,17 +3,19 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Kasir Kantin Sekolah</title>
+  <title>Kasir Kantin SMKN 1 Pasuruan</title>
+  <link rel="icon" href="../img/RkhMlgKtk.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
+  <script src="kantin.js" defer></script>
 </head>
 <body>
   <header>
     <div class="container navbar">
-      <h1>Ferdinand Christopher A.</h1>
-      <nav class="menu-laptop">
+      <h1>Kasir Kantin SMKN 1 Pasuruan</h1>
+           <nav class="menu-laptop">
         <ul>
           <li><a href="../index.html">Beranda</a></li>
           <li><a href="../proyek.html">Proyek</a></li>
@@ -21,6 +23,7 @@
           <li><a href="kantin.html">Kasir Kantin</a></li>
         </ul>
       </nav>
+      <button type="button" id="tombol-tema" class="tombol-tema">Mode gelap</button>
       <!-- Tantangan: menu ponsel yang bisa dibuka-tutup -->
       <details class="menu-ponsel">
         <summary>Menu</summary>
@@ -33,55 +36,43 @@
           </ul>
         </nav>
       </details>
-      <button type="button" id="tombol-tema" class="tombol-tema">Change Mode</button>
     </div>
   </header>
 
   <main>
-          <section class="hero">
-    <div class="hero-card">
-        <h2>Halo, saya Ferdinand!</h2>
-        <p>Siswa kelas X SMK Negeri 1 Pasuruan,
-        yang ingin membantu membuat daftar menu
-        kantin di sekolah.</p>
-    </div>
-</section>
+    <div class="container">
+      <section class="hero">
+        <div>
+          <h2>Selamat datang di halaman Kasir Kantin!👋</h2>
         </div>
       </section>
 
       <section class="kartu">
-        <h2>Tentang Saya</h2>
-        <p>Saya tinggal di Pasuruan dan memiliki tujuan untuk membantu para pedagang di kantin.</p>
+        <h2>Tentang Halaman Kasir Kantin😊</h2>
+        <p>Halaman ini dibuat untuk mengerjakan contoh soal praktik Kasir Kantin yang dilihat dari Console browser dengan tautan JavaScript.
+        </p>
       </section>
+      <section>
+        <h2>Menu Kantin</h2>
+        <p>Kumpulan menu di kantin SMK Negeri 1 Pasuruan.</p>
 
-      <div class="daftar-menu">
-        <section class="menu-card">
-          <div class="food-icon">🍛</div>
-          <h2>Makanan</h2>
-          <ul>
-            <li>Nasi Goreng = Rp. 10.000</li>
-            <li>Rujak = Rp. 12.000</li>
-            <li>Mie Ayam = Rp. 8.000</li>
-          </ul>
-        </section>
+        <div class="filter">
+          <button type="button" class="tombol-filter aktif" id="filter-semua">Semua</button>
+          <button type="button" class="tombol-filter" id="filter-makanan">Makanan</button>
+          <button type="button" class="tombol-filter" id="filter-minuman">Minuman</button>
+        </div>
 
-        <section class="menu-card">
-          <div class="drink-icon">🥤</div>
-          <h2>Minuman</h2>
-            <li>Es Teh = Rp. 3.000</li>
-            <li>Air Putih = Rp. 2.000</li>
-            <li>Es Sirup = Rp. 5.000</li>
-          </ol>
-        </section>
-      </div>
+        <p id="jumlah-menu"></p>
+
+        <div class="daftar-kartu" id="daftar-menu"></div>
+      </section>
+    </div>
+  </main>
 
   <footer>
     <p>Kontak: <a href="mailto:ferdinandnanda22@gmail.com">ferdinandnanda22@gmail.com</a> |
-      <a href="https://github.com/" target="_blank">GitHub</a> |
-      <a href="https://www.youtube.com/" target="_blank">YouTube</a></p>
-    <p>&copy; 2026 Ferdinand Christopher A. Dibuat di Kelas Industri UBIG.</p>
+      <a href="https://github.com/Gentleemerel" target="_blank">GitHub</a> 
+    <p>&copy; 2026 Ferdinand C.A. Dibuat dengan semangat di Kelas Industri UBIG.</p>
   </footer>
-  <script src="../JS/main.js" defer></script>
-  <script src="kantin.js"></script>
 </body>
 </html>
