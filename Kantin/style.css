@@ -319,3 +319,10 @@ body.gelap {
   --warna-kartu: #1C2836;
   --warna-garis: #34465A;
 }
+
+/* 12. Tombol kembali ke atas halaman */
+.tombol-atas {
+  background-color: transparent;
+  border: 2px solid white;
+  padding: 0.5rem;
+}

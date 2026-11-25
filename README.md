@@ -10,6 +10,18 @@ Website ini tampil rapi di ponsel, tablet, dan laptop.
 
 ---
 
+## Lighthouse Beranda
+![Nilai Lighthouse pada halaman beranda]
+---
+
+## Fitur
+- Halaman **Beranda** berisi profil, hobi, cita-cita, keahlian, dan jadwal belajar
+- Halaman **Proyek** berisi daftar proyek dalam bentuk kartu
+- Halaman **Kontak** berisi form untuk menghubungi saya
+- Tampilan responsif dengan Flexbox dan *media query*
+
+---
+
 ## Fitur
 - Halaman **Beranda** berisi profil, hobi, cita-cita, keahlian, dan
 jadwal belajar
@@ -19,10 +31,37 @@ jadwal belajar
 
 ---
 
+## Pengujian Lighthouse
+
+Pengujian website dilakukan menggunakan Lighthouse untuk memeriksa:
+
+- Performance
+- Accessibility
+- Best Practices
+- SEO
+
+---
+
+## Hasil Pengujian Lighthouse
+
+Pengujian dilakukan menggunakan Lighthouse pada tiga halaman website.
+
+| Halaman | Performance | Accessibility | Best Practices | SEO |
+|---|---:|---:|---:|---:|
+| Beranda | - | - | - | - |
+| Proyek | - | - | - | - |
+| Kontak | - | - | - | - |
+
+---
+
 ## Teknologi
 - HTML5
 - CSS3 (Flexbox dan media query)
 - Git dan GitHub
+- VS Code dan Live Server
+- JavaScript
+- JSON
+- GitHub API
 
 ---
 
