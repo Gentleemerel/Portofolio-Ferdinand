@@ -11,7 +11,7 @@ Website ini tampil rapi di ponsel, tablet, dan laptop.
 ---
 
 ## Lighthouse Beranda
-![Nilai Lighthouse pada halaman beranda]
+![Nilai Lighthouse pada halaman beranda](img/Nilaiberanda.png)
 ---
 
 ## Fitur
@@ -48,9 +48,9 @@ Pengujian dilakukan menggunakan Lighthouse pada tiga halaman website.
 
 | Halaman | Performance | Accessibility | Best Practices | SEO |
 |---|---:|---:|---:|---:|
-| Beranda | - | - | - | - |
-| Proyek | - | - | - | - |
-| Kontak | - | - | - | - |
+| Beranda | 87 | 94 | 96 | 91 |
+| Proyek | 83 | 86 | 96 | 91 |
+| Kontak | 100 | 93 | 96 | 90 |
 
 ---
 
