@@ -11,7 +11,7 @@ Website ini tampil rapi di ponsel, tablet, dan laptop.
 ---
 
 ## Lighthouse Beranda
-![Nilai Lighthouse pada halaman beranda]
+![Nilai Lighthouse pada halaman beranda](img/Nilaiberanda.png)
 ---
 
 ## Fitur
